@@ -1,6 +1,9 @@
 /*
-	Beaverly Cuasi
-	CSADPRG S11
+	AMBROSIO, Kristal
+	CUASI, Beaverly
+	FERNANDEZ, Justine
+	SILVERIO, Gwyneth
+	Group 5 - CSADPRG S11
 */
 
 #include<stdio.h>
